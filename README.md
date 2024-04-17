@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="" src="/pass-in-web//public/Thumbnail.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
